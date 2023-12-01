@@ -1,17 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Michael Enriquez 👋
 
-<!--
-**ozquez/ozquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a seasoned Software and Data Engineer, specializing in backend development and data engineering. Over the past five years, I've honed my skills in Python, working extensively with server frameworks like Flask and FastAPI. My expertise lies in designing and implementing robust backend systems, data pipelines, and integrating various technologies to create scalable and efficient solutions. I'm also well-versed in cloud services, including AWS, Azure, and Google Cloud Platform.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://hit.yhype.me/github/profile?user_id=26561367)
+## 🛠 Skills
+- **Languages:** Python, SQL, JavaScript, Java
+- **Frameworks:** Flask, FastAPI, Django
+- **Cloud Services:** AWS, Azure, Google Cloud Platform
+- **Databases:** PostgreSQL, MS SQL Server, Azure SQL, MongoDB, Azure Cosmos DB
+- **Tools & Technologies:** Docker, Apache Airflow, Databricks, Apache Spark, PowerBI, Tableau
