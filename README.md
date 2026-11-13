@@ -2,4 +2,4 @@ Software engineer. I work on APIs and analytics: the services other systems inte
 
 Most of my work lives in private repositories. Ruby, Python, SQL.
 
-[michaelenriquez.dev](https://michaelenriquez.dev) · [LinkedIn](https://www.linkedin.com/in/michaelenriquez01)
+Elsewhere: [michaelenriquez.dev](https://michaelenriquez.dev) and [LinkedIn](https://www.linkedin.com/in/michaelenriquez01)
